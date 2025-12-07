@@ -1,0 +1,14 @@
+# Node Modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build Output
+client/build
+
+# Environment Variables (Bahut Zaroori!)
+.env
+
+# Logs and OS files
+*.log
+.DS_Store
